@@ -1,0 +1,8 @@
+[domain]
+name = "testdomain.net"
+port = 3000
+entry = "src/index.ts"
+
+[git]
+url = "https://github.com/Kruithne/testdomain.net.git"
+branch = "main"
